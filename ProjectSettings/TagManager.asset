@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bottom
+  - Brick
+  - Slider
+  - Player1Goal
+  - Player1
+  - Player2
+  - Beam
+  - NewBall
+  - Shoot
+  - Shield
+  - Expand
+  - Heal
+  - Ball
+  - PowerUp
+  - Destroyer
+  - GameManager
+  - Shield2
+  - Shield1
+  - Ball1
+  - Ball2
+  - HitSound
+  - SoundManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Edge
+  - Ball
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
